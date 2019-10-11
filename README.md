@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/azrul-jeruy/TestAutomation/_apis/build/status/WebUI.Tests.Sample.CI)](https://dev.azure.com/azrul-jeruy/TestAutomation/_build/latest?definitionId=3)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
