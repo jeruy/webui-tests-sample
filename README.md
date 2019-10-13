@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/azrul-jeruy/jeruy-github/_apis/build/status/jeruy-github-CI?branchName=master)](https://dev.azure.com/azrul-jeruy/jeruy-github/_build/latest?definitionId=4&branchName=master)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
