@@ -38,19 +38,19 @@ If you already have Visual Studio and .NET Core installed in you machine, you ca
 
 **(Using [Visual Studio](https://visualstudio.microsoft.com/vs/community/))**
 
-STEP 1 : Clone this repo to your local
-STEP 2 : Open and Build the solution (```src\WebUI.Tests.Sample.sln```) in Visual Studio
-STEP 3 : If the build is succeeded, you will see the list of tests in Test Explorer window
+STEP 1 : Clone this repo to your local  
+STEP 2 : Open and Build the solution (```src\WebUI.Tests.Sample.sln```) in Visual Studio  
+STEP 3 : If the build is succeeded, you will see the list of tests in Test Explorer window  
 STEP 4 : Run all the tests
 
 Youtube video for these steps could be found : [here](https://youtu.be/yxbQ6iQUuiU) 
 
 **(Using .NET Core [SDK](https://dotnet.microsoft.com/download))** 
 
-STEP 1 : Clone the repo to your local 
-STEP 2 : Go to csproj file path (```src/WebUI.Tests.Sample```)
-STEP 3 : Run "dotnet build"
-STEP 4 : Run all the tests using "dotnet test" command
+STEP 1 : Clone the repo to your local  
+STEP 2 : Go to csproj file path (```src/WebUI.Tests.Sample```)  
+STEP 3 : Run "dotnet build"  
+STEP 4 : Run all the tests using "dotnet test" command  
 
 Youtube video for these steps could be found : [here](https://youtu.be/gOCDgAT5N88) 
 
