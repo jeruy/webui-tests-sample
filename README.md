@@ -23,7 +23,9 @@ The selenium pages in this project are following [Page Object Model](https://www
  
  # Getting Started
  
- Since this sample tests code is written in .NET Core 2.1, you can just build and run the test using [.NET Core SDK](https://dotnet.microsoft.com/download). If you have Visual Studio installed in your machine, you can build and run the tests from  Visual Studio's Test Explorer
+ Since this sample tests code is written in .NET Core 2.1, you can just build and run the test using [.NET Core SDK](https://dotnet.microsoft.com/download). If you have Visual Studio installed in your machine, you can build and run the tests from  Visual Studio's Test Explorer  
+ 
+ More info in the [Wiki](https://github.com/jeruy/webui-tests-sample/wiki/Getting-Started)
 
 # Build and running the tests locally
 If you already have Visual Studio and .NET Core installed in you machine, you can follow below steps : 
