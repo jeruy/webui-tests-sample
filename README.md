@@ -5,20 +5,8 @@ Hello World~! This repo is to host my sample code for my [gig](https://www.fiver
 
 There are 10 sample tests that I automate to test GitHub's registration/join page. The tests are :
 
- 1. ```Should_Be_Able_To_View_SignUp_LinkButton_On_HomePage```
- 2. ```Should_Be_Able_To_Go_To_SignUpPage_From_HomePage```
- 3. ```Should_Disabled_Next_Button_When_SignUp_Form_Is_Empty```
- 4. ```Should_Be_Able_To_Enter_Valid_Username(validUsername: "ValidusernameAutomationTest123")```
- 5. ```Should_Be_Able_To_Enter_Valid_Username(validUsername: "Validusername-AutomationTest123")```
- 6. ```Should_Be_Able_To_Enter_Valid_Username(validUsername: "123Validusername-AutomationTest123")```
- 7. ```Should_Display_Error_Validation_Message_When_Invalid_Username_Is_Entered(invalidUsername: "~!@#$%^&*(")```
- 8. ```Should_Display_Error_Validation_Message_When_Invalid_Username_Is_Entered(invalidUsername: "!@#$%Invalidusername-AutomationTest")```
- 9. ```Should_Display_Error_Validation_Message_When_Invalid_Username_Is_Entered(invalidUsername: "Invalidusername-AutomationTest123!@#$%")```
- 10. ```Should_Display_Error_Validation_Message_When_Username_Is_Exceed_Max_Length```
- 
  ![alt text](docs/img/TestExplorer.PNG)
 
-# Getting Started
 The test methods are using extensible steps class and follow [fluent interface](https://martinfowler.com/bliki/FluentInterface.html) and applying [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) style [Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html) convention to increase tests readability.  
 
 The selenium pages in this project are following [Page Object Model](https://www.pluralsight.com/guides/getting-started-with-page-object-pattern-for-your-selenium-tests) design pattern : 
@@ -31,7 +19,11 @@ The selenium pages in this project are following [Page Object Model](https://www
 
  ![alt text](docs/img/SampleTestMethods.PNG)
  
- Since this sample tests code is written in .NET Core 2.1, you can just build and run the test using [.NET Core SDK](https://dotnet.microsoft.com/download) - or if you have Visual Studio installed in your machine, you can build and run the tests from  Visual Studio's Test Explorer
+ More info in the [Wiki](https://github.com/jeruy/webui-tests-sample/wiki/Introduction)
+ 
+ # Getting Started
+ 
+ Since this sample tests code is written in .NET Core 2.1, you can just build and run the test using [.NET Core SDK](https://dotnet.microsoft.com/download). If you have Visual Studio installed in your machine, you can build and run the tests from  Visual Studio's Test Explorer
 
 # Build and running the tests locally
 If you already have Visual Studio and .NET Core installed in you machine, you can follow below steps : 
