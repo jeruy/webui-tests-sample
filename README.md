@@ -48,22 +48,10 @@ STEP 4 : Run all the tests using "dotnet test" command
 
 Youtube video for these steps could be found : [here](https://youtu.be/gOCDgAT5N88) 
 
-# How to contribute
-  1. Fork the project & clone locally.
-  2. Create an upstream remote and sync your local copy before you branch.
-  3. Branch for each separate piece of work.
-  4. Do the work, write good commit messages.
-  5. Push to your origin repository.
-  6. Create a new PR in GitHub.
-  7. Respond to any code review feedback. 
-  (read : Rob Allen's [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/))
-  
-  
-  Thanks for visiting my repo.
 
+# About me and my [gig](https://www.fiverr.com/share/N7y5N) on [fiverr](https://www.fiverr.com/share/N7y5N)
+Thanks for visiting my repo.   
 
-  # About me and my [gig](https://www.fiverr.com/share/N7y5N) on [fiverr](https://www.fiverr.com/share/N7y5N)
-  
 I've extensive experience with the following technologies:
 
  - Selenium 
